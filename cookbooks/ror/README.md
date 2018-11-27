@@ -1,6 +1,6 @@
-# ror
+#Ruby On Rail
 
-These are the requirement that are install for this cookbook in syseng.pelco.org.
+These are the requirement that are install for this cookbook in sxxxxx.pelco.org.
 
 Requires- Rails
 Requires- HTTPD
